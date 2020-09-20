@@ -182,7 +182,7 @@
     <h1>404 NOT FOUND</h1>
   </header>
   <section class="hero">
-    <img src="./public/img/Scarecrow.png" alt="Espanta pajaro">
+    <img src="https://github.com/carlosqdev/404-not-found/blob/master/public/img/Scarecrow.png?raw=true" alt="Espanta pajaro">
   </section>
   <section class="content">
     <h2>I have bad news for you</h2>

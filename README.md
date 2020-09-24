@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://carlosqdev.github.io/404-not-found/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/carlosqdev/404-not-found">
       Solution
     </a>
     <span> | </span>
@@ -39,5 +39,5 @@
 
 ## Contact
 
-- GitHub [carlosqdev](https://{github.com/carlosqdev})
+- GitHub [@carlosqdev](https://{github.com/carlosqdev})
 - Twitter [@carlosqdev](https://{twitter.com/carlosqdev})

@@ -1,3 +1,24 @@
+<script>
+  import imageScarecrow from '../Scarecrow.png';
+</script>
+
+<div class="main">
+  <header class="header">
+    <h1>404 NOT FOUND</h1>
+  </header>
+  <section class="hero">
+    <img src={imageScarecrow} alt="Scarecrow">
+  </section>
+  <section class="content">
+    <h2>I have bad news for you</h2>
+    <p>The page you are looking for might be removed or is temporarily unavailable</p>
+    <button>BACK TO HOMEPAGE</button>
+  </section>
+  <footer class="footer">
+    <span>Carlos Quintero @ DevChallenges.io</span>
+  </footer>
+</div>
+
 <style>
   :global(body) {
     margin: 0;
@@ -176,20 +197,3 @@
   }
 }
 </style>
-
-<div class="main">
-  <header class="header">
-    <h1>404 NOT FOUND</h1>
-  </header>
-  <section class="hero">
-    <img src="https://github.com/carlosqdev/404-not-found/blob/master/public/img/Scarecrow.png?raw=true" alt="Espanta pajaro">
-  </section>
-  <section class="content">
-    <h2>I have bad news for you</h2>
-    <p>The page you are looking for might be removed or is temporarily unavailable</p>
-    <button>BACK TO HOMEPAGE</button>
-  </section>
-  <footer class="footer">
-    <span>Carlos Quintero @ DevChallenges.io</span>
-  </footer>
-</div>

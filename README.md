@@ -1,43 +1,20 @@
-<!-- Please update value in the {}  -->
+# 404 not found. ![Licence_badge](https://img.shields.io/github/license/carlosqdev/404-not-found?style=for-the-badge)
 
-<h1 align="center">{404 not found}</h1>
+Esto es la solución a un **challenge** de **https://devchallenges.io/**, landing page 404 con **Responsive Desing**.
 
-<div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
+![404_demo](http://g.recordit.co/Cs1oiB6nmP.gif)
 
-<div align="center">
-  <h3>
-    <a href="https://carlosqdev.github.io/404-not-found/">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://github.com/carlosqdev/404-not-found">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
-      Challenge
-    </a>
-  </h3>
-</div>
+## 💿 [DEMO.](https://carlosqdev.github.io/404-not-found/)
 
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [Built With](#built-with)
-- [Contact](#contact)
-
-
-## Built With
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
+## 🛠 Construido con (Built With).
 - [Svelte](https://svelte.dev/)
+- [Webpack](https://webpack.js.org/)
 
+## 💻 Instalación (Getting Started).
+1. Clona este repositorio `git clone https://github.com/carlosqdev/404-not-found.git`
+2. Ve a la carpeta del proyecto `cd 404-not-found`
+3. Instala las dependencias del proyecto `npm install`
+4. Iniciar el proyecto en modo development `npm run start`
 
-## Contact
-
-- GitHub [@carlosqdev](https://{github.com/carlosqdev})
-- Twitter [@carlosqdev](https://{twitter.com/carlosqdev})
+## 🚀 Despliegue (Deployment).
+1. Una vez instaladas las dependencias, puedes hacer el build. `npm run build`

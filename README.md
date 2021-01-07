@@ -7,8 +7,8 @@ Esto es la solución a un **challenge** de **https://devchallenges.io/**, landin
 ## 💿 [DEMO.](https://carlosqdev.github.io/404-not-found/)
 
 ## 🛠 Construido con (Built With).
-- [Svelte](https://svelte.dev/)
-- [Webpack](https://webpack.js.org/)
+1. [Svelte](https://svelte.dev/)
+2. [Webpack](https://webpack.js.org/)
 
 ## 💻 Instalación (Getting Started).
 1. Clona este repositorio `git clone https://github.com/carlosqdev/404-not-found.git`
